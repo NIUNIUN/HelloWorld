@@ -1,6 +1,6 @@
 ok???
-<<<<<<< HEAD
+
 dev
-=======
+
 feature-logout
->>>>>>> feature-logout
+
