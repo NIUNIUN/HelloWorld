@@ -4,10 +4,8 @@ dev
 
 feature-logout
 
-<<<<<<< HEAD
+
 origin modify
 
 local modify
-=======
 
->>>>>>> f0c7db5cb6357bd54f0917a689c79c6771aae9ef
